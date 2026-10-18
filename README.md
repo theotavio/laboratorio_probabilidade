@@ -1,6 +1,6 @@
 # Laboratório Interativo de Probabilidade
 
-[![GitHub Pages](https://img.shields.io/badge/Acessar-GitHub_Pages-2563EB?logo=github&logoColor=white)](https://theotavio.github.io/laboratiorio_probabilidade/)
+[![GitHub Pages](https://img.shields.io/badge/Acessar-GitHub_Pages-2563EB?logo=github&logoColor=white)](https://theotavio.github.io/laboratorio_probabilidade/)
 ![React](https://img.shields.io/badge/React-19.0-61DAFB?logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.9-3178C6?logo=typescript&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-6.0-646CFF?logo=vite&logoColor=white)
@@ -10,7 +10,7 @@
 Aplicação web interativa para exploração, experimentação e compreensão dos conceitos fundamentais da teoria das probabilidades. O projeto funciona inteiramente no navegador, com simulações físicas em tempo real, gráficos comparativos e explicações detalhadas sobre os fenômenos probabilísticos.
 
 O site está disponível online no GitHub Pages:
-**[https://theotavio.github.io/laboratiorio_probabilidade/](https://theotavio.github.io/laboratiorio_probabilidade/)**
+**[https://theotavio.github.io/laboratorio_probabilidade/](https://theotavio.github.io/laboratorio_probabilidade/)**
 
 ---
 
@@ -100,7 +100,7 @@ O principal objetivo da plataforma é explicar o motivo pelo qual os resultados 
 
 1. Acesse o diretório do projeto:
 ```bash
-cd laboratiorio_probabilidade
+cd laboratorio_probabilidade
 ```
 
 2. Instale as dependências:
